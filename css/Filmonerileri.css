@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+}
+
+h1 {
+    color: saddlebrown;
+}
+
+h2 {    
+    color: orangered;
+}
+
+h3 {
+    color: crimson;
+}
+
+ul {
+    list-style-position: inside;
+}
